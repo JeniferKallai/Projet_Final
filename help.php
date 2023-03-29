@@ -1,0 +1,4 @@
+<?php
+    $affUserName;
+    $affPassword;
+    $message;
